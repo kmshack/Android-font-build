@@ -1,7 +1,9 @@
 android-font-build
 ==================
 
-안드로이드 폰트설치 Sample 앱(갤럭시 단말 전용)
+This app is a sample of the font for installation. Will only work with the Samsung Galaxy series.
+
+이 앱은 폰트설치를 위한 샘플입니다. 삼성 갤럭시 시리즈에서만 작동됩니다.
 
 
 
